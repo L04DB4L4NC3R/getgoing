@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
 // arrays
 // func todo() {
 // 	//var arr []int
@@ -15,6 +11,7 @@ import (
 // }
 
 // structure encapsulation
+/*
 type Car struct {
 	Name    string
 	Age     int
@@ -43,3 +40,4 @@ func main() {
 	c.Drive()
 	fmt.Println(c.GetName())
 }
+*/
