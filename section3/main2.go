@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -24,3 +25,4 @@ func main() {
 	wg.Wait()
 	fmt.Println("Exit")
 }
+*/
