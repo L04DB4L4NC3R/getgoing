@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -20,3 +21,4 @@ func main() {
 	http.ListenAndServe("localhost:3000", mux)
 	http.ListenAndServe("localhost:3000", mux)
 }
+*/
